@@ -33,7 +33,7 @@ src/
     Ahamed Meyan.pdf
     images/
 public/
-  og-image.jpg
+  image.png
   robots.txt
   sitemap.xml
 ```
